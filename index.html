@@ -1,1 +1,1 @@
-love
+config
